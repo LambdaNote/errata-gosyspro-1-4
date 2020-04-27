@@ -10,8 +10,8 @@
 
 各ページの正誤や参考情報のためのissueが、あらかじめ発行のうえ、いったんcloseされています。closeされている各ページ用のissueは、下記のURLで参照できます。できれば、これらの各ページ用のissueへのコメントとして、問題をご報告ください。コメントを確認後、こちらでReopenします。
 
-* 前付けページ（ノンブルi～x）については、`https://github.com/LambdaNote/errata-gosyspro-1-1/issues/[i～xのページノンブルのアラビア数字]`
-* 本文ページ（ノンブル1～）については、`https://github.com/LambdaNote/errata-gosyspro-1-1/issues/[ページノンブル+10]`
+* 前付けページ（ノンブルi～x）については、`https://github.com/LambdaNote/errata-gosyspro-1-4/issues/[i～xのページノンブルのアラビア数字]`
+* 本文ページ（ノンブル1～）については、`https://github.com/LambdaNote/errata-gosyspro-1-4/issues/[ページノンブル+10]`
 
 めんどうであれば、新規にissueを立ててもらってもかまいません。こちらで随時、各ページ用のissueとして編集のうえ、closeします。
 
