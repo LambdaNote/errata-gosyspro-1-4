@@ -4,6 +4,8 @@
 
 * [出版者による書籍ページ](https://www.lambdanote.com/products/go)
 
+* [1刷～3刷までの正誤表](https://github.com/LambdaNote/errata-gosyspro-1-1/issues)
+
 ## Contribution
 
 各ページの正誤や参考情報のためのissueが、あらかじめ発行のうえ、いったんcloseされています。closeされている各ページ用のissueは、下記のURLで参照できます。できれば、これらの各ページ用のissueへのコメントとして、問題をご報告ください。コメントを確認後、こちらでReopenします。
